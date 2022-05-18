@@ -59,14 +59,14 @@ __pycache__
 # Ignoring files wihtout extension
 *.
 
-#Ignorign targets
-*/test
-*/test25
-*/proj
-*/proj25
-*/benchmark
-*/bench25
-*/benchopt
+#Ignoring targets
+test
+test25
+proj
+proj25
+benchmark
+bench25
+benchopt
 
 #Ignoring .DS_Store
 .DS_Store
@@ -92,3 +92,4 @@ __pycache__
 *-blx.aux
 *-blx.bib
 *.run.xml
+SSE/build-O0/proj
